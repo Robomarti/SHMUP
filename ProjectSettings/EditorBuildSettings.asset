@@ -6,8 +6,68 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 8e99389543771e34cbc61ee0f36a5545
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 72040447db1799b40bc3ad5cc27f4092
+  - enabled: 1
+    path: Assets/Scenes/Menus/AudioOptions.unity
+    guid: ba0a2aaf2f453aa43ab77c94bfc33d53
+  - enabled: 1
+    path: Assets/Scenes/Menus/Controller.unity
+    guid: 46cc9a39a99fad14bb31f78566ca2688
+  - enabled: 1
+    path: Assets/Scenes/Menus/ControlsOptions.unity
+    guid: f71ced388e31b2544b47929a25cb459e
+  - enabled: 1
+    path: Assets/Scenes/Menus/CraftSelect.unity
+    guid: 56951f3532fdc5040b10586eb23d2b21
+  - enabled: 1
+    path: Assets/Scenes/Menus/Credits.unity
+    guid: 567ef9d1ca605084eacf612daed57137
+  - enabled: 1
+    path: Assets/Scenes/Menus/GraphicsOptions.unity
+    guid: ef2755ee0c5ba9346b96d949100bf9c6
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main.unity
+    guid: e847d3f678c93ef4c91f40bacc75f292
+  - enabled: 1
+    path: Assets/Scenes/Menus/Medals.unity
+    guid: fda999dbf5c8cd54489f1bfb662aa34a
+  - enabled: 1
+    path: Assets/Scenes/Menus/Options.unity
+    guid: ac4ae1264028f444ea75c12d7e4e9e2c
+  - enabled: 1
+    path: Assets/Scenes/Menus/Pause.unity
+    guid: 7f05a077bc0666d47af56e46047ad34a
+  - enabled: 1
+    path: Assets/Scenes/Menus/Play.unity
+    guid: a18df8c010602944ca42fdb7865b13c4
+  - enabled: 1
+    path: Assets/Scenes/Menus/Practice.unity
+    guid: fec53a3120cf21e43992cdc0aa68c182
+  - enabled: 1
+    path: Assets/Scenes/Menus/PracticeArena.unity
+    guid: 9b5f8f6d58eb27b4786086253416e8b7
+  - enabled: 1
+    path: Assets/Scenes/Menus/PracticeStage.unity
+    guid: f12ae62f3285e574abeee03a74b40245
+  - enabled: 1
+    path: Assets/Scenes/Menus/Replays.unity
+    guid: 2a647e5cbf4b7f2478354594d7b32c64
+  - enabled: 1
+    path: Assets/Scenes/Menus/Scores.unity
+    guid: ec211baf295ec684dbe0e6b6d2ded297
+  - enabled: 1
+    path: Assets/Scenes/Menus/TitleScene.unity
+    guid: 65603401a75cd6944b442efdb3c77884
+  - enabled: 1
+    path: Assets/Scenes/Menus/YesNo.unity
+    guid: 9f30eb0074df4c244909a48687246ae2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
